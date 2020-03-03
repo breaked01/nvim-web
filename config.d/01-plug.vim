@@ -5,7 +5,7 @@ Plug 'https://github.com/Yggdroot/indentLine.git'
 Plug 'dyng/ctrlsf.vim'
 Plug 'neoclide/coc.nvim', {'tag': '*'} 
 Plug 'https://github.com/joshdick/onedark.vim.git'
-#Plug 'https://github.com/itchyny/lightline.vim.git'
+"Plug 'https://github.com/itchyny/lightline.vim.git'
 Plug 'https://github.com/tomtom/tcomment_vim.git'
 Plug 'https://github.com/tpope/vim-commentary.git'
 Plug 'preservim/nerdtree'
