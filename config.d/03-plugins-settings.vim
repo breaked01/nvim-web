@@ -1,6 +1,7 @@
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
 let g:ctrlp_working_path_mode = ''
+let g:ctrlp_max_files=0
 map <F2> :CtrlPBuffer<CR>
 map <c-b> :CtrlPBuffer<CR>
 map <F12> :wqall!<CR>
